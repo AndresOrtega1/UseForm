@@ -55,7 +55,7 @@ const authReducer = (state : LoginForm, action : AuthAction) : LoginForm => {
 
         default:
             return console.error(
-                'popo'
+                ''
             );
             ;
     }
